@@ -38,6 +38,11 @@
 - Bio: A student happy to write code and poetry.
 - GitHub: [Apoorva Sharma](https://github.com/okatticus)
 
+#### Name: [VISHNU JAYAKUMAR](https://github.com/okatticus)
+- Place: kochi,India
+- Bio: A computer science student enthiusiast in coding and machine learning.
+- GitHub: [VIKKU_VICHU](https://github.com/vikkuvichu)
+
 #### Name: [Aayush Sharma](https://github.com/aayusharma)
 - Place: Mandi, Himachal Pradesh, India
 - Bio: IITian
